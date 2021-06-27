@@ -53,52 +53,36 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Gabi Braun*
+`Hey There!` [⚡](https://telegra.ph/file/3bab0c59e9d3e84955ee6.jpg) `My name is` *Pikachu*
 `I am an Anime Themed group management bot.
-Build by The Ghost Hunter and managed by Falco Grice for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Build and managed by Tamim for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD GABI TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
+            text="➕️ ADD Pikachu TO YOUR GROUP ➕️",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
               text="🔐 Command & Help", callback_data="help_back"),
      
     ],
-    [     InlineKeyboardButton(
-            text="🎦 H.S.A Group", url="https://telegram.dog/Hindisubsanimes"),
-    
-    ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://telegram.dog/EldianGabi_UpdateChannel"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Gabi_Support_Log"),
-          
-
+            text="📑 Loges", url="https://t.me/Pikachu_log_Group"),
 
 InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
-        ),
-
-    ],
-    [
-        InlineKeyboardButton(
-                    text="🗄️ Source Code", url="https://github.com/Falco-Grice/GabiBraunRobot"
+            text="🐱 SUPPORT", url="https://t.me/Pikachu_Support_Group"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Gabi Braun]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
-I'm a Eldian and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My name is` *Pikachu*
+I'm a Pokemon Of Tamim. `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paytm](#) or by contacting @The_Ghost_Hunter\
