@@ -66,15 +66,20 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-              text="🔐 Command & Help", callback_data="help_back"),
+              text="🔐 Commands & Help", callback_data="help_back"),
      
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Pikachu_log_Group"),
+            text="📑 Loges", url="https://t.me/Pikachu_Log_Channel"),
 
-InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://t.me/Pikachu_Support_Group"
+        InlineKeyboardButton(
+            text="⚡Update Channel⚡", url="https://t.me/Pikachu_Update_Channel"
+        ),
+    ],
+    [
+         InlineKeyboardButton(
+            text="⚡Support⚡", url="https://t.me/Pikachu_Support_Group",
         ),
     ],
 ]
@@ -82,12 +87,10 @@ InlineKeyboardButton(
 
 HELP_STRINGS = """
 `Hey there! My name is` *Pikachu*
-I'm a Pokemon Of Tamim. `Have a look at the following for an idea of some of the things I can help you with.`"""
+I'm a Pokemon Of My Trainer Tamim. `Have a look at the following for an idea of some of the things I can help you with.`"""
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paytm](#) or by contacting @The_Ghost_Hunter\
- Supporting isnt always financial! \
- Those who cannot provide monetary support are welcome to help us develop the bot at ."""
+DONATE_STRING = """Hey, glad to hear you want to donate!
+ But I Don't Need Money Just Share The Bot With Your Friend 🙂."""
 
 IMPORTED = {}
 MIGRATEABLE = []
