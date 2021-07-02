@@ -62,30 +62,31 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD SHINOBU TO YOUR GROUP ➕️",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
+            text="➕ ADD SHINOBU TO YOUR GROUP ➕",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-              text="🔐 Commands & Help", callback_data="help_back"),
+              text="📚 Commands & Help", callback_data="help_back"),
     
     ],
     [
         InlineKeyboardButton(
-            text="✨Anime Group✨", url="https://t.me/Animeloverz1234"),
+            text="✨ Anime LoverZ ✨", url="https://t.me/Animeloverz1234"),
+    ],
+    [
+         InlineKeyboardButton(
+            text="🔥 Support 🔥", url="https://t.me/shinobu_help_support",
+        ),
     ],
     [
         InlineKeyboardButton(
             text="📑 Loges", url="https://t.me/shinoburobot1"),
 
         InlineKeyboardButton(
-            text="✨Update Channel✨", url="https://t.me/Shinobu_Update_Channel"
+            text="Update Channel 📢", url="https://t.me/Shinobu_Update_Channel"
         ),
     ],
-    [
-         InlineKeyboardButton(
-            text="✨Support✨", url="https://t.me/shinobu_help_support",
-        ),
-    ],
+
 ]
 
 
