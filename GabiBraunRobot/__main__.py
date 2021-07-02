@@ -56,7 +56,7 @@ PM_START_TEXT = """
 `𝙷𝚎𝚢 𝚃𝚑𝚎𝚛𝚎!` [👩‍💼](https://telegra.ph/file/88e5c9e4eb11d47625068.jpg) `My name is` *Shinobu*
 `𝙸 𝚊𝚖 𝚊𝚗 𝙰𝚗𝚒𝚖𝚎 𝚃𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝.
 𝙱𝚞𝚒𝚕𝚍 𝚊𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚍 𝚋𝚢 𝙻𝚎𝚕𝚞𝚘𝚌𝚑 𝚏𝚘𝚛 𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙 , 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚊𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙𝚜.
-You can find my list of available commands with! Hit` *🔐Commands*   
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚠𝚒𝚝𝚑! 𝙷𝚒𝚝` *🔐Commands*   
 """
 
 buttons = [
