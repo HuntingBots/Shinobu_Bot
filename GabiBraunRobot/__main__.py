@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Gabi Braun*
+`Hey There!` [👩‍💼](https://telegra.ph/file/88e5c9e4eb11d47625068.jpg) `My name is` *Shinobu*
 `I am an Anime Themed group management bot.
 Build and managed by Lelouch for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -75,7 +75,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://t.me/shinobu_help_support"),
+            text="📮 Update Channel", url="https://t.me/Shinobu_Update_Channel"),
     ],
     [
         InlineKeyboardButton(
