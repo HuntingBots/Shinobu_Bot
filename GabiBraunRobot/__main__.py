@@ -55,14 +55,14 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 `Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Gabi Braun*
 `I am an Anime Themed group management bot.
-Build by The Ghost Hunter and managed by Falco Grice for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Build and managed by Lelouch for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD GABI TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
+            text="➕️ ADD SHINOBU TO YOUR GROUP ➕️",url="t.me/Shinobu_robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -70,28 +70,23 @@ buttons = [
      
     ],
     [     InlineKeyboardButton(
-            text="🎦 H.S.A Group", url="https://telegram.dog/Hindisubsanimes"),
+            text="🎦 Anime Group", url="https://t.me/Animeloverz1234"),
     
     ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://telegram.dog/EldianGabi_UpdateChannel"),
+            text="📮 Update Channel", url="https://t.me/shinobu_help_support"),
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Gabi_Support_Log"),
+            text="📑 Loges", url="https://t.me/shinoburobot1"),
           
 
 
 InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
+            text="🐱 SUPPORT", url="https://t.me/shinobu_help_support"
         ),
 
-    ],
-    [
-        InlineKeyboardButton(
-                    text="🗄️ Source Code", url="https://github.com/Falco-Grice/GabiBraunRobot"
-        ),
     ],
 ]
 
