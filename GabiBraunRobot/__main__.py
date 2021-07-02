@@ -67,26 +67,30 @@ buttons = [
     [
         InlineKeyboardButton(
               text="🔐 Commands & Help", callback_data="help_back"),
-     
+    
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Pikachu_Log_Channel"),
+            text="✨Anime Group✨", url="https://t.me/shinoburobot1"),
+    ],
+    [
+        InlineKeyboardButton(
+            text="📑 Loges", url="https://t.me/shinoburobot1"),
 
         InlineKeyboardButton(
-            text="⚡Update Channel⚡", url="https://t.me/Pikachu_Update_Channel"
+            text="✨Update Channel✨", url="https://t.me/Shinobu_Update_Channel"
         ),
     ],
     [
          InlineKeyboardButton(
-            text="⚡Support⚡", url="https://t.me/Pikachu_Support_Group",
+            text="✨Support✨", url="https://t.me/shinobu_help_support",
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My name is` *Pikachu*
+`Hey there! My name is` *Shinobu*
 I'm a Pokemon Of My Trainer Tamim. `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
