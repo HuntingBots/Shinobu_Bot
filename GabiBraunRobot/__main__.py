@@ -92,10 +92,10 @@ buttons = [
 
 HELP_STRINGS = """
 `Hey there! My name is` *Shinobu*
-I'm a Pokemon Of My Trainer Tamim. `Have a look at the following for an idea of some of the things I can help you with.`"""
+I'm a Demon Slayer and I can help admins to manage their groups from Some Powerful DeMons!`Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
- But I Don't Need Money Just Share The Bot With Your Friend 🙂."""
+ But We Don't Need Money Just Share The Bot With Your Friend 🙂 And Join @AnimeLoverz1234"""
 
 IMPORTED = {}
 MIGRATEABLE = []
