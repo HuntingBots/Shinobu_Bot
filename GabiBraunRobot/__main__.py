@@ -55,14 +55,14 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 `𝙷𝚎𝚢 𝚃𝚑𝚎𝚛𝚎!` [👩‍💼](https://telegra.ph/file/88e5c9e4eb11d47625068.jpg) `My name is` *Shinobu*
 `𝙸 𝚊𝚖 𝚊𝚗 𝙰𝚗𝚒𝚖𝚎 𝚃𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝.
-𝙱𝚞𝚒𝚕𝚍 𝚋𝚢 𝚃𝚑𝚎 𝙶𝚑𝚘𝚜𝚝 𝙷𝚞𝚗𝚝𝚎𝚛 𝚊𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚍 𝚋𝚢 𝙻𝚎𝚕𝚞𝚘𝚌𝚑 𝚏𝚘𝚛 𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙 , 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚊𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙𝚜.
+𝙱𝚞𝚒𝚕𝚍 𝚊𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚍 𝚋𝚢 𝙻𝚎𝚕𝚞𝚘𝚌𝚑 𝚏𝚘𝚛 𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙 , 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚊𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙𝚜.
 You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD Pikachu TO YOUR GROUP ➕️",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
+            text="➕️ ADD SHINOBU TO YOUR GROUP ➕️",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -71,7 +71,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨Anime Group✨", url="https://t.me/shinoburobot1"),
+            text="✨Anime Group✨", url="https://t.me/Animeloverz1234"),
     ],
     [
         InlineKeyboardButton(
