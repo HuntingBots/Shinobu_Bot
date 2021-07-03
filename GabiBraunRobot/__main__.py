@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/shinoburobot1"),
+            text="📑 Logs", url="https://t.me/shinoburobot1"),
 
         InlineKeyboardButton(
             text="Update Channel 📢", url="https://t.me/Shinobu_Update_Channel"
