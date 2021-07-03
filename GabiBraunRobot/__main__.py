@@ -62,7 +62,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ADD SHINOBU TO YOUR GROUP ➕",url="t.me/Pikachu_GroupHelper_bot?startgroup=true"),
+            text="➕ ADD SHINOBU TO YOUR GROUP ➕",url="t.me/Shinobu_robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
