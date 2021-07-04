@@ -3,7 +3,7 @@ from pathlib import Path
 import asyncio, time, io, math, os, logging, asyncio, shutil, re, subprocess, json
 from re import findall
 from asyncio import sleep
-from GabiBraunRobot import kp as app 
+from GabiBraunRobot import pgram as kp
 from telethon.events import NewMessage
 from telethon.tl.custom import Dialog
 from datetime import datetime as dt
@@ -285,4 +285,3 @@ __help__ = """
 """
 
 __mod_name__ = "SONGS"
-
