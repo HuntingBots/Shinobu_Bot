@@ -61,7 +61,7 @@ For starters click on this button
 * [Discussion](https://telegram.dog/helpcenterbot1)
 * [Second Group](https://telegram.dog/Ast_Official_Channel)
 
-## Credits,  
+## Credits,
 *   [Tamim Zaman](https://telegram.dog/TamimZaman)
 
 ## Bot Owner
