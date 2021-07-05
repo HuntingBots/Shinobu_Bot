@@ -1,4 +1,4 @@
-from SaitamaRobot import pbot
+from GabiBraunRobot import pbot
 from SaitamaRobot.utlis.dbfunctions import (update_karma, get_karma, get_karmas,
                                    int_to_alpha, alpha_to_int)
 from SaitamaRobot.utlis.filter_groups import karma_positive_group, karma_negative_group
