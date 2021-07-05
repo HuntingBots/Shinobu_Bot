@@ -47,7 +47,7 @@ Make sure to edit the start and restart bats to your needs.
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/shinobu_help_support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ## How to setup on Heroku 
 For starters click on this button 
@@ -57,12 +57,12 @@ For starters click on this button
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/GabiHelpSupport)
+* [Support](https://t.me/shinobu_help_support)
 * [Discussion](https://telegram.dog/helpcenterbot1)
 * [Second Group](https://telegram.dog/Ast_Official_Channel)
 
 ## Credits,  
-*   [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
+*   [Tamim Zaman](https://telegram.dog/TamimZaman)
 
 ## Bot Owner
-*  [Falco Grice](https://telegram.dog/Official_Flying_Titan)
+*  [Lelouch](https://telegram.dog/Im_lelouch1)
