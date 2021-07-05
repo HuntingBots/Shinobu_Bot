@@ -10,7 +10,7 @@
 
 ### Bot And Channel 
 * Bot Link:  <a href="http://t.me/Shinobu_robot" alt="Shinobu Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Shinobu-blue" /> </a>
-* Log Channel: <a  href="https://t.me/Gabi_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
+* Log Channel: <a  href="https://t.me/shinoburobot1" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Shinobu%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
