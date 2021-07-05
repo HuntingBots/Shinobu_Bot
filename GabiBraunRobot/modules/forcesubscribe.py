@@ -29,7 +29,7 @@ from pyrogram.errors.exceptions.bad_request_400 import (
 )
 from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
-from Cutiepii_Robot import BOT_ID
+from GabiBraunRobot import BOT_ID
 
 # from GabiBraunRobot import OWNER_ID as SUDO_USERS
 from GabiBraunRobot import pgram
