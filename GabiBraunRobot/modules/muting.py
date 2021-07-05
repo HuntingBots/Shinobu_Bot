@@ -32,11 +32,11 @@ def check_user(user_id: int, bot: Bot, chat: Chat) -> Optional[str]:
             raise
 
     if user_id == bot.id:
-        reply = "I'm not gonna Poison myself, How high are you?"
+        reply = "I'm not gonna Mute myself, How high are you?"
         return reply
 
     if is_user_admin(chat, user_id, member) or user_id in TIGERS:
-        reply = "Can't. Find someone else to Poison but not this one."
+        reply = "Can't. Find someone else to Mute but not this one."
         return reply
 
     return None
