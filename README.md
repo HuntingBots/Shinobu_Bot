@@ -9,7 +9,7 @@
 <a href="https://t.me/shinobu_help_support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="@Shinobu_robot" alt="Shinobu Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
+* Bot Link:  <a href="http://t.me/Shinobu_robot" alt="Shinobu Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Shinobu-blue" /> </a>
 * Log Channel: <a  href="https://t.me/Gabi_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
