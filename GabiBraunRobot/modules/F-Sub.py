@@ -197,4 +197,4 @@ Note: /FSub is an alias of /ForceSubscribe
 
  
 """
-__mod_name__ = " Fsub"
+__mod_name__ = " F-Sub"
