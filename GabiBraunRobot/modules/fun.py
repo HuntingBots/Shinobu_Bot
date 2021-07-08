@@ -187,6 +187,21 @@ def shrug(update: Update, context: CallbackContext):
 
 
 @run_async
+def shout(update: Update, context: CallbackContext):
+    args = context.args
+    text = " ".join(args)
+    result = []
+    result.append(' '.join(list(text)))
+    for pos, symbol in enumerate(text[1:]):
+        result.append(symbol + ' ' + '  ' * pos + symbol)
+    result = list("\n".join(result))
+    result[0] = text[0]
+    result = "".join(result)
+    msg = "```\n" + result + "```"
+    return update.effective_message.reply_text(msg, parse_mode="MARKDOWN")
+
+
+@run_async
 def bluetext(update: Update, context: CallbackContext):
     msg = update.effective_message
     reply_text = msg.reply_to_message.reply_text if msg.reply_to_message else msg.reply_text
