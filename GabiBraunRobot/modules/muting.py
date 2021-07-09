@@ -83,7 +83,7 @@ def mute(update: Update, context: CallbackContext) -> str:
         return log
 
     else:
-        message.reply_text("This user is already Poisoned by my mute potion!")
+        message.reply_text("This user is already Muted!")
 
     return ""
 
