@@ -53,49 +53,57 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`𝙷𝚎𝚢 𝚃𝚑𝚎𝚛𝚎!` [👩‍💼](https://telegra.ph/file/88e5c9e4eb11d47625068.jpg) `My name is` *Shinobu*
-`𝙸 𝚊𝚖 𝚊𝚗 𝙰𝚗𝚒𝚖𝚎 𝚃𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝.
-𝙱𝚞𝚒𝚕𝚍 𝚊𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚍 𝚋𝚢 𝙻𝚎𝚕𝚞𝚘𝚌𝚑 𝚏𝚘𝚛 𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙 , 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚊𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚑𝚎𝚖𝚎𝚍 𝚐𝚛𝚘𝚞𝚙𝚜.
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚠𝚒𝚝𝚑! 𝙷𝚒𝚝` *🔐Commands*   
+`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Gabi Braun*
+`I am an Anime Themed group management bot.
+Build by The Ghost Hunter and managed by Falco Grice for Your Telegram Group , I specialize in managing anime and similar themed groups.
+You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ADD SHINOBU TO YOUR GROUP ➕",url="t.me/Shinobu_robot?startgroup=true"),
+            text="➕️ ADD YONE TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-              text="📚 Commands & Help", callback_data="help_back"),
+              text="🔐 Command & Help", callback_data="help_back"),
+     
+    ],
+    [     InlineKeyboardButton(
+            text="🎦 H.S.A Channel", url="https://telegram.dog/Hindisubsanimes"),
     
     ],
     [
         InlineKeyboardButton(
-            text="✨ Anime LoverZ ✨", url="https://t.me/Animeloverz1234"),
-    ],
-    [
-         InlineKeyboardButton(
-            text="🔥 Support 🔥", url="https://t.me/shinobu_help_support",
-        ),
+            text="📮 Update Channel", url="https://telegram.dog/EldianGabi_UpdateChannel"),
     ],
     [
         InlineKeyboardButton(
-            text="📑 Logs", url="https://t.me/shinoburobot1"),
+            text="📑 Loges", url="https://t.me/Gabi_Support_Log"),
+          
 
+
+InlineKeyboardButton(
+            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
+        ),
+
+    ],
+    [
         InlineKeyboardButton(
-            text="Update Channel 📢", url="https://t.me/Shinobu_Update_Channel"
+                    text="🗄️ Source Code", url="https://github.com/Falco-Grice/GabiBraunRobot"
         ),
     ],
-
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My name is` *Shinobu*
-I can help admins to manage their groups from Some Bad Demons!`Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My name is` [Gabi Braun]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
+I'm a Eldian and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
-DONATE_STRING = """Hey, glad to hear you want to donate!
- But We Don't Need Money Just Share The Bot With Your Friend 🙂 And Join @AnimeLoverz1234"""
+DONATE_STRING = """Heya, glad to hear you want to donate!
+ You can support the project via [Paytm](#) or by contacting @The_Ghost_Hunter\
+ Supporting isnt always financial! \
+ Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -673,7 +681,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I'm online now! 👩‍💼")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes I'm alive 😹")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
