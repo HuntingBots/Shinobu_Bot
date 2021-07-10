@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://telegra.ph/file/002deefca3049878553e8.jpg">
+  <img src="https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg">
 </p>
 
-## Shinobu Bot
+## Gabi Braun Robot 
 
-### Telegram Groups
-* Support: <a href="https://t.me/shinobu_help_support" alt="Anime LoverZ!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-* Anime LoverZ: <a href="https://t.me/Animeloverz1234" alt="Support!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+### Telegram Group
+<p align="left">
+<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Shinobu_robot" alt="Shinobu Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Shinobu-blue" /> </a>
-* Log Channel: <a  href="https://t.me/shinoburobot1" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Shinobu%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/Gabi_Braun_Robot" alt="GabiBraun"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
+* Log Channel: <a  href="https://t.me/Gabi_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
@@ -47,19 +47,22 @@ Make sure to edit the start and restart bats to your needs.
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/shinobu_help_support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
-## How to setup and Deploy In Heroku
-As You Know It's a fork of GabiBraunRobot So Go To GabiBraunRobot And Deploy From There
+## How to setup on Heroku 
+For starters click on this button 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HuntingBots/GabiBraunRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 ## Our Telegram Channel and Group
 
-* [Support](https://t.me/shinobu_help_support)
+* [Support](https://telegram.dog/GabiHelpSupport)
 * [Discussion](https://telegram.dog/helpcenterbot1)
 * [Second Group](https://telegram.dog/Ast_Official_Channel)
 
-## Credits, 
-*   [Tamim Zaman](https://telegram.dog/TamimZaman)
+## Credits,  
+*   [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
 
-## Bot Owner 
-*  [Lelouch](https://telegram.dog/Im_lelouch1)
+## Bot Owner
+*  [Falco Grice](https://telegram.dog/Official_Flying_Titan)
